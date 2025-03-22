@@ -5,3 +5,6 @@ GoldManager - AddGold, RemoveGold
 scriptableobject ItemData
 <br>
 shop - buyItem
+---
+## v2
+![Image](https://github.com/user-attachments/assets/945fd650-e09d-478b-85e8-1197fadfcf15)
